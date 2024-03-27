@@ -4,7 +4,7 @@
 sudo apt update
 
 # Устанавливаем необходимые пакеты
-sudo apt install -y build-essential wget
+sudo apt install -y build-essential
 
 # Скачиваем архив с 3proxy
 wget https://github.com/z3APA3A/3proxy/archive/0.9.4.tar.gz
